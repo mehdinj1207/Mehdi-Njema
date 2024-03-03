@@ -64,10 +64,10 @@ I graduated 🎓 from the National School of Computer Sciences (ENSI), I am a ve
 <br>
 <div align="center">
 <a href="https://github.com/mehdinj1207/Scrum-App-Back-Talan-PFE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehdinj1207&repo=Scrum-App-Back-Talan-PFE&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehdinj1207&repo=Scrum-App-Back-Talan-PFE&bg_color=22272e&text_color=8a919a" alt="DA-RNN" />
 </a>
 <a href="https://github.com/mehdinj1207/Scrum-App-Front-PFE-Talan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehdinj1207&repo=Scrum-App-Front-PFE-Talan&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehdinj1207&repo=Scrum-App-Front-PFE-Talan&bg_color=22272e&text_color=8a919a" alt="DA-RNN" />
 </a>
 </div>
 
