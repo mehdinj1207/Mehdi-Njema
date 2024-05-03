@@ -19,7 +19,6 @@ I graduated 🎓 from the National School of Computer Sciences (ENSI), I am a ve
 - 🌱 &nbsp; I’m currently learning Jenkins; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mehdinjema/)
-/*- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1SlUr-Whpjh94DYd3T_ytR5W-D1RgE5S6/view?usp=sharing)*/
 <br>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
