@@ -11,7 +11,7 @@ I graduated 🎓 from the National School of Computer Sciences (ENSI), I am a ve
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="220px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
   
 ### 🧐 More About Me:
 
